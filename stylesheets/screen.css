@@ -353,7 +353,7 @@ footer span.right-tail {
   right: -11px;
 }
 
-footer span.octocat {
+span.octocat {
   background: transparent url(../images/octocat.png) 0 0 no-repeat;
   display: block;
   width: 30px;
